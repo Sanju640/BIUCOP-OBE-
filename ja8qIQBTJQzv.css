@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Editech";
+  src: url("../fonts/lJdURGccspi5.eot");
+  src: url("../fonts/lJdURGccspi5.eot") format("embedded-opentype"), url("../fonts/SALuLjhLmvOb.woff2") format("woff2"), url("../fonts/ed5MMwCdkScb.woff") format("woff"),
+    url("../fonts/sQGcWeA6EP5G.ttf") format("truetype"), url("../images/NHPB0JsbBDzE.svg#EditechRegular") format("svg");
+}
+
+@font-face {
+  font-family: "Editech";
+  src: url("../fonts/Wn9U4GR0jhJq.eot");
+  src: url("../fonts/Wn9U4GR0jhJq.eot") format("embedded-opentype"), url("../fonts/gTzGxKZBW0CO.woff2") format("woff2"), url("../fonts/P71PI56kJ9BE.woff") format("woff"),
+    url("../fonts/SpUWvc5U148l.ttf") format("truetype"), url("../images/V2WW0lXlLnfS.svg#EditechBold") format("svg");
+  font-weight: 600;
+}
